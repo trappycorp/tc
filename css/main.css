@@ -38,6 +38,9 @@ body.dark{
     --title-icon-color: #CCC;
     --buy: black;
 }
+html{
+    scroll-behavior: smooth;
+}
 nav{
     position: sticky;
     top: 0;
